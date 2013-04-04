@@ -9,7 +9,7 @@ How to use the jar
 ------------------
 
 <pre>
-java -jar PanoptoBlockBooker.jar \<Server> \<Username> \<Password> \<.csv file>
+java -jar PanoptoBlockBooker.jar < Server > < Username > < Password > < .csv file >
 </pre>
 
 For example...
