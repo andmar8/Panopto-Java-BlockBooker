@@ -5,6 +5,19 @@ A simple command line tool to take a series of schedules in a csv file and book 
 
 The code requires the [Panopto-Java-Util](https://github.com/andmar8/Panopto-Java-Util) Library
 
+How to use the jar
+------------------
+
+<pre>
+java -jar PanoptoBlockBooker.jar <Server> <Username> <Password> <.csv file>
+</pre>
+
+For example...
+
+<pre>
+java -jar PanoptoBlockBooker.jar panoptoserver.example.com admin password sessions.csv
+</pre>
+
 Format of the CSV
 -----------------
 
