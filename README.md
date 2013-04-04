@@ -28,3 +28,10 @@ To use the block booker you need to specify a CSV file in the following format..
 	<td>#SPLUS123456</td>
 </tr>
 <table>
+
+Or, as it would be in the csv....
+
+<pre>
+"name","folderExternalId","start","end","location","externalId"
+"COM1001/L01","Q1213-COM1001","02/10/2012 13:00","02/10/2012 14:00","BLDG.1.10","#SPLUS123456"
+</pre>
