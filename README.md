@@ -52,4 +52,4 @@ Or, as it would be in the csv....
 * The name can be anything you like, just make sure to escape double quotes and commas
 * The start and end MUST be in DD/MM/YYYY HH:mm
 * You need to be using external Id's for the folder and location or the block booker will not be able to work out which folder to assign the recording to or which remote recorders to use
-* See the [Booking Engine](https://github.com/andmar8/Panopto-PHP-Booking-Engine) for more about external Id's
+* See the [Booking Engine](https://github.com/andmar8/Panopto-PHP-Booking-Engine#what-are-external-ids) for more about external Id's
